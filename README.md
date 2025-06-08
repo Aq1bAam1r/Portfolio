@@ -1,5 +1,8 @@
 # 🚀 Portfolio — Aqib Aamir's Neon Dev CV
 <p align="center"> <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=30&pause=1000&color=00FF9D&center=true&vCenter=true&width=800&lines=Welcome+to+My+Neon+Portfolio!;Software+Engineer+%7C+Cybersecurity+Enthusiast;Let's+Build+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG"> </p> <p align="center"> <a href="https://aqib.cloud/virtual%20cv/"> <img src="https://img.shields.io/badge/Live%20Site-00ff9d?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Live Site"> </a> <a href="https://github.com/Aq1bAam1r/Portfolio"> <img src="https://img.shields.io/github/stars/Aq1bAam1r/Portfolio?style=for-the-badge&color=181717&logo=github" alt="GitHub stars"> </a> <a href="mailto:hello@aqib.cloud"> <img src="https://img.shields.io/badge/Email-00ff9d?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"> </a> </p>
+
+## 🔗 Experience: https://aqib.cloud/virtual%20cv/
+
 ## ✨ Features
 
     🌌 Neon UI: Dark mode, glowing accents, smooth transitions
